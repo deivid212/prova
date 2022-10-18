@@ -14,3 +14,5 @@ ramificações de um projeto
 solicitação de alterações em um repositorio de outra pessoa
 ## 9 - O que é fork?
 a copia de um repositorio de terceiros
+## 10 - O que é um VCS?
+software de controle de presão 
