@@ -8,3 +8,5 @@ contém todos os arquivos do seu projeto e o histórico de revisão de cada arqu
 junta duas ou mais branch
 ## 5 - O que é pull?
 puxa as informações do repositorio remoto para o local
+## 7 - O que é branch?
+ramificações de um projeto
