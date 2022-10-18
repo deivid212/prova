@@ -10,3 +10,5 @@ junta duas ou mais branch
 puxa as informações do repositorio remoto para o local
 ## 7 - O que é branch?
 ramificações de um projeto
+## 8 - O que é pull request?
+solicitação de alterações em um repositorio de outra pessoa
