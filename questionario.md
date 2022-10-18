@@ -12,3 +12,5 @@ puxa as informações do repositorio remoto para o local
 ramificações de um projeto
 ## 8 - O que é pull request?
 solicitação de alterações em um repositorio de outra pessoa
+## 9 - O que é fork?
+a copia de um repositorio de terceiros
